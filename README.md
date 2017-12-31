@@ -1,6 +1,4 @@
 # botpress-telegram
-<<<<<<< HEAD
-=======
 
 Official Telegram connector for Botpress. This module has been built to accelerate and facilitate development of Telegram bots.
 
@@ -25,4 +23,3 @@ Get an invite and join us now! 👉[https://slack.botpress.io](https://slack.bot
 ## License
 
 botpress-telegram is licensed under AGPLv3.
->>>>>>> a899f373f510df90c06a7e48ca24affa45b3fee4

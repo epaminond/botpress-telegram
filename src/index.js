@@ -48,7 +48,7 @@ const outgoingMiddleware = (event, next) => {
 module.exports = {
 
   config: {
-    botToken: {type: 'string', required: true, default: '', env: 'TOKEN'},
+    botToken: {type: 'string', required: true, default: '', env: 'TELEGRAM_TOKEN'},
   },
 
   init: function(bp, config) {
